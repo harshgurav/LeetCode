@@ -1,16 +1,19 @@
 class Solution {
 public:
-    bool check(vector<int>& nums) {
-        vector<int> temp = nums;
-        temp.insert(temp.end(), nums.begin(), nums.end());
-
-        vector<int> sorted = nums;
-        sort(sorted.begin(), sorted.end());
-
-        return search(
-                   temp.begin(), temp.end(),
-                   sorted.begin(), sorted.end()
-               ) != temp.end();
-
+    bool check(std::vector<int>& nums) {
+        int count_drops = 0;
+        int n = nums.size();
+        
+        for (int i = 0; i < n; ++i) {
+            if (nums[i] > nums[(i + 1) % n]) {
+                count_drops++;
+            }
+            
+            if (count_drops > 1) {
+                return false;
+            }
+        }
+        
+        return true;
     }
 };
