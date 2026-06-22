@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshgurav/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/harshgurav/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1512-number-of-good-pairs](https://github.com/harshgurav/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
 |  |
@@ -49,4 +50,16 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshgurav/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/harshgurav/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/harshgurav/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/harshgurav/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
