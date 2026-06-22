@@ -23,6 +23,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/harshgurav/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshgurav/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshgurav/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1512-number-of-good-pairs](https://github.com/harshgurav/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -63,4 +64,8 @@
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/harshgurav/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/harshgurav/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
