@@ -12,8 +12,6 @@ void insert_node(int val){
     int i = size;
     size++;
     
-    // We use i > 0 to ensure we don't go out of bounds (below the root).
-    // The parent of index 'i' in a 0-indexed array is (i - 1) / 2.
     while(i > 0 && heap[(i - 1) / 2] > heap[i]){
         swap(heap[(i - 1) / 2], heap[i]);
         i = (i - 1) / 2;
