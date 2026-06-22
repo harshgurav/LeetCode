@@ -23,6 +23,7 @@
 ## Array
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/harshgurav/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/harshgurav/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
 |  |
@@ -32,4 +33,20 @@
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/harshgurav/LeetCode/tree/master/1512-number-of-good-pairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/harshgurav/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/harshgurav/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/harshgurav/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/harshgurav/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
