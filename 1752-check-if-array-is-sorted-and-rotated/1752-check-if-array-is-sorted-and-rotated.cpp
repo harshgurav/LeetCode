@@ -1,15 +1,6 @@
 class Solution {
 public:
     bool check(vector<int>& nums) {
-        // for(int i=nums.size(); i<n; i++){
-        //     if(nums[i] >= nums[i-1]){
-        
-        //     } else return false;
-        // }
-        // return true;
-        
-        // }
-      
         vector<int> temp = nums;
         temp.insert(temp.end(), nums.begin(), nums.end());
 
