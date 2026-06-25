@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/harshgurav/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/harshgurav/LeetCode/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/harshgurav/LeetCode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/harshgurav/LeetCode/tree/master/0509-fibonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/harshgurav/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Dynamic Programming
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshgurav/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/harshgurav/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshgurav/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshgurav/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1512-number-of-good-pairs](https://github.com/harshgurav/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -68,4 +70,5 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshgurav/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/harshgurav/LeetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
