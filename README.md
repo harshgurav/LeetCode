@@ -27,6 +27,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshgurav/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/harshgurav/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshgurav/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0283-move-zeroes](https://github.com/harshgurav/LeetCode/tree/master/0283-move-zeroes) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshgurav/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1512-number-of-good-pairs](https://github.com/harshgurav/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/harshgurav/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -71,4 +72,5 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshgurav/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/harshgurav/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/harshgurav/LeetCode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
