@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/harshgurav/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/harshgurav/LeetCode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/harshgurav/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/harshgurav/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/harshgurav/LeetCode/tree/master/0509-fibonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/harshgurav/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Dynamic Programming
@@ -27,6 +28,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshgurav/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/harshgurav/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshgurav/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/harshgurav/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/harshgurav/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/harshgurav/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshgurav/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -35,6 +37,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/harshgurav/LeetCode/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/harshgurav/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
@@ -48,6 +51,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshgurav/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/harshgurav/LeetCode/tree/master/0268-missing-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -59,6 +63,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/harshgurav/LeetCode/tree/master/0268-missing-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshgurav/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
@@ -74,4 +79,8 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshgurav/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/harshgurav/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/harshgurav/LeetCode/tree/master/0283-move-zeroes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/harshgurav/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
