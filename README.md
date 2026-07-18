@@ -29,6 +29,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshgurav/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/harshgurav/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/harshgurav/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/harshgurav/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/harshgurav/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshgurav/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/harshgurav/LeetCode/tree/master/0268-missing-number) |
@@ -41,20 +42,24 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshgurav/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/harshgurav/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/harshgurav/LeetCode/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/harshgurav/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/harshgurav/LeetCode/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/harshgurav/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/harshgurav/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshgurav/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/harshgurav/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/harshgurav/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshgurav/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/harshgurav/LeetCode/tree/master/0268-missing-number) |
 ## Heap (Priority Queue)
